@@ -129,3 +129,11 @@ dmypy.json
 .pyre/
 
 .vscode/
+report/reportNotes.bib
+report/__latexindent_temp.tex
+report/report.aux
+report/report.bbl
+report/report.blg
+report/report.fdb_latexmk
+report/report.fls
+report/report.synctex.gz
