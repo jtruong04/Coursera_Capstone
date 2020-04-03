@@ -1,0 +1,133 @@
+City,Country,Winter,Summer,Year
+Buenos Aires,Argentina,0,1,2004
+Vienna,Austria,0,1,1964
+Brisbane,Australia,0,1,1992
+Melbourne,Australia,0,2,1996
+Sydney,Australia,0,2,2000
+Baku,Azerbaijan,0,1,2020
+Antwerp,Belgium,0,2,1920
+Brussels,Belgium,0,1,1964
+Brasilia,Brazil,0,1,2000
+Rio De Janeiro,Brazil,0,2,2016
+Montreal,Canada,0,2,1976
+Toronto,Canada,0,1,2008
+Beijing,China,0,2,2008
+Havana,Cuba,0,1,2012
+Prague,Czech Republic,0,1,2016
+Alexandria,Egypt,0,1,1936
+Cairo,Egypt,0,1,2008
+Helsinki,Finland,0,2,1952
+Lille,France,0,1,2004
+Lyon,France,0,1,1968
+Paris,France,0,2,2024
+Berlin,Germany,0,2,2000
+Köln,Germany,0,1,1936
+Frankfurt,Germany,0,1,1936
+Hamburg,Germany,0,1,2024
+Leipzig,Germany,0,1,2012
+Munich,Germany,0,2,1972
+Nuremberg,Germany,0,1,1936
+Athens,Greece,0,2,2004
+Budapest,Hungary,0,1,2024
+Dublin,Ireland,0,1,1936
+Milano,Italy,0,1,2000
+Roma,Italy,0,2,2024
+Nagoya,Japan,0,1,1988
+Osaka,Japan,0,1,2008
+Tokyo,Japan,0,2,2021
+Kuala Lumpur,Malaysia,0,1,2008
+Mexico City,Mexico,0,2,1968
+Amsterdam,Netherlands,0,2,1992
+San Juan,Puerto Rico,0,1,2004
+Doha,Qatar,0,1,2020
+Moscow,Russia,0,2,2012
+St. Petersburg,Russia,0,1,2004
+Belgrade,Serbia,0,1,1996
+Cape Town,South Africa,0,1,2004
+Seoul,South Korea,0,2,1988
+Barcelona,Spain,0,2,1992
+Madrid,Spain,0,1,2020
+Sevilla,Spain,0,1,2008
+Stockholm,Sweden,0,2,2004
+Lausanne,Switzerland,0,1,1960
+Bangkok,Thailand,0,1,2008
+Istanbul,Turkey,0,1,2020
+Birmingham,United Kingdom,0,1,1992
+London,United Kingdom,0,2,2012
+Manchester,United Kingdom,0,1,2000
+Atlanta Ga,United States of America,0,2,1996
+Baltimore Md,United States of America,0,1,1948
+Boston Ma,United States of America,0,1,2024
+Chicago Il,United States of America,0,1,2016
+Cleveland Oh,United States of America,0,1,1920
+Detroit Mi,United States of America,0,1,1972
+Minneapolis Mn,United States of America,0,1,1956
+Los Angeles Ca,United States of America,0,2,2028
+New York Ny,United States of America,0,1,2012
+Philadelphia Pa,United States of America,0,1,1956
+San Francisco Ca,United States of America,0,1,1956
+St. Louis Mo,United States of America,0,2,1904
+Tashkent,Uzbekistan,0,1,2000
+Chamonix,France,2,0,1924
+St. Moritz,Switzerland,2,0,1960
+Davos,Switzerland,1,0,1928
+Engelberg,Switzerland,1,0,1928
+Lake Placid Ny,United States of America,2,0,1980
+Bear Mountain Ct,United States of America,1,0,1932
+Denver Co,United States of America,2,0,1976
+Duluth Mn,United States of America,1,0,1932
+Minneapolis Mn,United States of America,1,0,1932
+Montreal,Canada,1,0,1956
+Oslo,Norway,2,0,2022
+Yosemite Valley Ca,United States of America,1,0,1932
+Garmisch-Partenkirchen,Germany,2,0,1960
+Sapporo,Japan,2,0,2026
+Cortina d'Ampezzo,Italy,2,0,2026
+Colorado Springs Co,United States of America,1,0,1956
+Squaw Valley Ca,United States of America,2,0,1960
+Innsbruck,Austria,2,0,1976
+Calgary,Canada,2,0,2026
+Lahti,Finland,1,0,1972
+Grenoble,France,2,0,1968
+Banff,Canada,1,0,1972
+Salt Lake City Ut,United States of America,2,0,2002
+Sion,Switzerland,1,0,2026
+Tampere,Finland,1,0,1976
+Vancouver,Canada,2,0,2010
+Sarajevo,Bosnia and Herzegovina,2,0,2010
+Gothenburg,Sweden,1,0,1984
+Falun,Sweden,1,0,1992
+Albertville,France,2,0,1992
+Anchorage AK,United States of America,1,0,1994
+Berchtesgaden,Germany,1,0,1992
+Lillehammer,Norway,2,0,1994
+Sofia,Bulgaria,1,0,2014
+Östersund,Sweden,1,0,2002
+Nagano,Japan,2,0,1998
+Aosta,Italy,1,0,1998
+Jaca,Spain,1,0,2014
+Québec,Canada,1,0,2002
+Graz,Austria,1,0,2026
+Poprad,Slovakia,1,0,2006
+Sochi,Russia,2,0,2014
+Tarvisio,Italy,1,0,2002
+Torino,Italy,2,0,2006
+Helsinki,Finland,1,0,2006
+Klagenfurt,Austria,1,0,2006
+Zakopane,Poland,1,0,2006
+Bern,Switzerland,1,0,2010
+Pyeongchang,South Korea,2,0,2018
+Salzburg,Austria,1,0,2014
+Andorra La Vella,Andorra,1,0,2010
+Harbin,China,1,0,2010
+Almaty,Kazakhstan,1,0,2022
+Borjomi,Georgia,1,0,2014
+Annecy,France,1,0,2018
+Munich,Germany,1,0,2018
+Lviv,Ukraine,1,0,2022
+Beijing,China,2,0,2022
+Kraków,Poland,1,0,2022
+Stockholm,Sweden,1,0,2026
+Åre,Sweden,1,0,2026
+Milano,Italy,2,0,2026
+Erzurum,Turkey,1,0,2026
